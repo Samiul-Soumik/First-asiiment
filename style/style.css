@@ -1,0 +1,79 @@
+.banner {
+  background-image: url('../resources/Banner.png');
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 1460px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.hader-title {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 180px;
+  justify-content: space-between;
+}
+.hader-title-two {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px; /* 131.944% */
+  align-items: center;
+  padding-left: 140px;
+}
+.off {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 70px;
+}
+.our {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-top: 50px;
+}
+.all {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-bottom: 80px;
+}
+.picture-one {
+  background-image: url('/resources/NewYearPhoto.png');
+  width: 802.9px;
+  height: 500px;
+  margin: 0px auto;
+  background-repeat: no-repeat;
+}
+victor. {
+  background-image: url('/resources/Vectorrr.png');
+  width: 1320px;
+  height: 600px;
+  margin: 0px auto;
+  background-repeat: no-repeat;
+}
