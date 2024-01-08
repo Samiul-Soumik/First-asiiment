@@ -70,10 +70,180 @@
   margin: 0px auto;
   background-repeat: no-repeat;
 }
-victor. {
+.victor {
   background-image: url('/resources/Vectorrr.png');
   width: 1320px;
   height: 600px;
-  margin: 0px auto;
+  margin: 120px auto;
   background-repeat: no-repeat;
+}
+.victor-one {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.welll {
+  color: #fff;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 88px; /* 137.5% */
+  letter-spacing: 7.04px;
+}
+.dollll {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+}
+.botton-one {
+  color: #ffffffc6;
+  background-color: black;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  border-radius: 20px;
+}
+.place-ossne {
+  text-align: center;
+  margin: 90px;
+}
+.place {
+  background-color: antiquewhite;
+  padding: 100px 386px 200px 386px;
+  border-radius: 10px;
+}
+.listt {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+.co {
+  color: #f00;
+}
+
+.botton-two {
+  border-radius: 8px;
+  background: #f00;
+  display: inline-flex;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.aaaaaaaaaaaa {
+}
+.arak {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+.janis {
+}
+.neee {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.coiiiii {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.dolorrr {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+.picooo {
+  padding: 50px;
+  border-radius: 463px;
+  border: 15px solid #f00;
+  margin: 50px;
+}
+.sal {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.dolor-two {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+.vvvv {
+}
+.xx {
+  background-color: #fff;
+  text-align: center;
+}
+.wa {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.ho {
+  color: #f00;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+.nnn {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+.do {
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px; /* 160% */
 }
