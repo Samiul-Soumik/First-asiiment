@@ -150,15 +150,13 @@
   line-height: normal;
   text-transform: uppercase;
 }
-.aaaaaaaaaaaa {
-}
+
 .arak {
   display: flex;
   background-color: #fff;
   justify-content: center;
 }
-.janis {
-}
+
 .neee {
   color: #f00;
   text-align: center;
@@ -207,8 +205,7 @@
   font-weight: 400;
   line-height: 32px; /* 160% */
 }
-.vvvv {
-}
+
 .xx {
   background-color: #fff;
   text-align: center;
@@ -246,4 +243,141 @@
   font-style: normal;
   font-weight: 500;
   line-height: 32px; /* 160% */
+}
+.az {
+  display: grid;
+  justify-content: center;
+}
+
+.aaz {
+  display: flex;
+}
+.azzz {
+  position: top;
+}
+
+.fulll {
+  display: grid;
+  justify-content: center;
+}
+
+.zzzzz {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.zx {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.xd {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+.imgone {
+  display: flex;
+  gap: 10px;
+}
+.imgtwo {
+  display: flex;
+
+  gap: 10px;
+}
+
+.place-ossneee {
+  text-align: center;
+  margin: 90px;
+}
+.placeee {
+  background-color: antiquewhite;
+  padding: 100px 386px 200px 386px;
+  border-radius: 10px;
+}
+
+.ccccccc {
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.cccccccccccc {
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+.mmm {
+  display: flex;
+}
+.d {
+  width: 648px;
+  height: 72px;
+
+  border-radius: 50px;
+  background: #fff;
+}
+.ddd {
+  width: 210px;
+  height: 72px;
+  flex-shrink: 0;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+}
+/* Futar style */
+.vvvvvv {
+  background: #070211;
+  width: 100%;
+  height: 609px;
+}
+.xxxxxx {
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  gap: 700px;
+}
+.nnnnn {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 166.667% */
+}
+.jjjjj {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 166.667% */
+}
+.imgggg {
+  display: flex;
+  padding-top: 150px;
+  justify-content: center;
+}
+.xxxvxxx {
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  gap: 700px;
 }
